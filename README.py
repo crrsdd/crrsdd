@@ -4,5 +4,3 @@ while True{
     print("crrsdd")
   elif ask == "realname":
     print("keep thinkin' about it...")
-  else:
-    print("you wasted my time...")
